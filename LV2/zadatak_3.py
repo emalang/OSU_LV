@@ -1,7 +1,6 @@
 #Skripta zadatak_3.py ucitava sliku ’road.jpg ’. Manipulacijom odgovarajuce numpy matrice pokušajte:
 import numpy as np
 import matplotlib.pyplot as plt
-from PIL import Image, ImageEnhance
 
 img=plt.imread('road.jpg')
 
